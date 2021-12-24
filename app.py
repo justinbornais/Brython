@@ -12,4 +12,4 @@ while True:
         break
     print(data.decode(), end='') # Decode the data.
 
-mysocket.close()
+mysocket.close() # Close the socket.
